@@ -17,7 +17,7 @@ A database is required for the development environment because the application c
 |   Total    |                                |       10       |       7        |
 
 ## Decision
-We will proceed with Option 2: Utilizing a dedicated, low-cost Managed Dev DB instance (AWS RDS PostgreSQL) for the development environment.
+We will proceed with the AWS RDS Postgresql DB. Utilizing a dedicated, low-cost Managed Dev DB instance (AWS RDS PostgreSQL) for the development environment.
 
 ## Considerations on selected technology
 Choosing AWS RDS PostgreSQL makes certain tasks easier and others more difficult:
